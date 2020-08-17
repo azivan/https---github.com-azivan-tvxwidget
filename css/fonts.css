@@ -1,0 +1,18 @@
+
+
+/*@font-face*/
+
+@font-face{
+    font-family: "RealHeadPro-Medium";
+    src: url(/fonts/RealHeadPro/RealHeadPro-Medium.otf);
+}
+
+@font-face{
+    font-family: "RealHeadPro-Black";
+    src: url(/fonts/RealHeadPro/RealHeadPro-Black.otf)
+}
+
+@font-face{
+    font-family: "RealHeadPro-Thin";
+    src: url(/fonts/RealHeadPro/RealHeadPro-Light.otf)
+}
