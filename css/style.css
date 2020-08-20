@@ -308,3 +308,33 @@ a {
 .huvudkontor {
     margin-top: 5rem;
 }
+
+.card {
+    border: none;
+    -webkit-box-shadow: -1px 22px 44px -15px rgba(0, 0, 0, 0.20);
+    -moz-box-shadow: -1px 22px 44px -15px rgba(0, 0, 0, 0.20);
+    box-shadow: -1px 22px 44px -15px rgba(0, 0, 0, 0.20);
+    -webkit-animation: fadein 1s;
+    /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 1s;
+    /* Firefox < 16 */
+    -ms-animation: fadein 1s;
+    /* Internet Explorer */
+    -o-animation: fadein 1s;
+    /* Opera < 12.1 */
+    animation: fadein 1s;
+    
+}
+
+.card-body {
+    font-family: "RealHeadPro-Thin";
+}
+
+.accordion {
+    margin-bottom: 10rem;
+}
+
+.test-iframe {
+    border: none;
+    background: white;
+}
